@@ -14,7 +14,7 @@
 [![VK](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kyeteli)
 
 ## 💘Lenguages and Tools💘
-- <h2>C# (ASP.NET Core)</h2>
+- C# (ASP.NET Core)
 - C++
 - HTML
 - SQL
