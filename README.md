@@ -8,17 +8,17 @@
 - Занимаюсь какой-то фигней, а не делаю лабы 😡
 <h2>Данный профиль создан для демонстрации учебных работ!</h2>
 
-## 💘Follow me
+## 💘Follow me💘
 
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bugashesh)
 [![VK](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kyeteli)
 
-## 💘Lenguages and Tools
-- C# (ASP.NET Core)
+## 💘Lenguages and Tools💘
+- <h2>C# (ASP.NET Core)</h2>
 - C++
 - HTML
 - SQL
 
-## 💘Operating system
+## 💘Operating system💘
 - Windows
 - Linux Ubuntu/Mint
