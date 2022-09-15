@@ -10,8 +10,8 @@
 
 ## 💘Follow me💘
 
-[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bugashesh)
-[![VK](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kyeteli)
+[![Telegram](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png)](https://t.me/bugashesh)
+[![VK](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-vk-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%B5-48.png)](https://vk.com/kyeteli)
 
 ## 💘Lenguages and Tools💘
 ![Sharp](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-cs-48.png)
@@ -25,8 +25,5 @@
 ![MySQL](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-mysql-48.png)
 
 ## 💘Operating system💘
-![Windows](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-windows-xp-48.png)
-
-![Linux](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-%D0%BE%D1%81-%D0%BB%D0%B8%D0%BD%D1%83%D0%BA%D1%81.gif)
-![Ubuntu](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-ubuntu-48.png)
-![Mint](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-linux-mint-48.png)
+- Windows
+- Linux (Ubuntu/Mint)
