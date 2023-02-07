@@ -10,7 +10,7 @@
 - 💾 Мой стек:
   - <b>Programming Languages:</b> C#
   - <b>Networking:</b> WinPCAP, TCP/IP, Sockets
-  - <b>Technologies:</b> Win32 API, NET Framework 4.7, .NET Remoting, .NET Reflection, Windows.Forms, ADO.NET
+  - <b>Technologies:</b> Win32 API, .NET Framework 4.7, .NET Remoting, .NET Reflection, Windows.Forms, WPF, ADO.NET, ASP.NET 
   - <b>DBMS:</b> Microsoft SQL Server Management Studio 18, MySQL
   - <b>Software:</b> Microsoft Visual Studio 2019/2022, Microsoft Visual Studio Code
   - <b>Web Technologies:</b> ASP.NET, HTML
