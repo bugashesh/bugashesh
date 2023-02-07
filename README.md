@@ -19,4 +19,4 @@
 ## Связь со мной
 
 [![Telegram](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app-48.png)](https://t.me/bugashesh)
-[![VK](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-vk-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%B5-48.png)](https://vk.com/kyeteli)
+[![VK](https://github.com/bugashesh/bugashesh/blob/main/assets/icons8-vk-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%B5-48.png)](https://vk.com/bugashesh)
